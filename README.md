@@ -27,5 +27,8 @@
 ##  *Huge Page Command*
 - #### command to check current huge pages details.This huge page size can be increased from 2MB to max 1GB.
 ![image](https://user-images.githubusercontent.com/103022040/162566921-c4331df1-6764-4ab2-a009-38b48584d388.png)
+## *Swap Space Command*
+
+
 
 
