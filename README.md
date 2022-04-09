@@ -38,10 +38,19 @@
 ![image](https://user-images.githubusercontent.com/103022040/162568603-193df89a-e964-4abd-9a0b-8a8a5cf2f882.png)
 - #### See swap size in Linux using vmstat command
 ![image](https://user-images.githubusercontent.com/103022040/162568683-6290b5bd-b0cd-44a1-9b8a-9abfbe2e3ce1.png)
-
-
-
-
+## *GREP COMMAND*
+- #### consider a file make using cat command
+![image](https://user-images.githubusercontent.com/103022040/162569437-f1834f64-2886-4d00-bb4e-f0717b532998.png)
+- #### The -i option enables to search for a string case insensitively in the given file. It matches the words like “UNIX”, “Unix”, “unix”. 
+![image](https://user-images.githubusercontent.com/103022040/162569481-ba1ccfb4-9077-4d0e-b6ef-e285ec0a007d.png)
+- #### We can find the number of lines that matches the given string/pattern 
+![image](https://user-images.githubusercontent.com/103022040/162569621-072bbfe2-f2a7-4ab2-a116-0c4bb66457d4.png)
+- #### Checking for the whole words in a file.The -w option to grep makes it match only the whole words. 
+![image](https://user-images.githubusercontent.com/103022040/162569705-057dfb04-fdd7-4f88-bcc8-739bc11231ec.png)
+- #### By default, grep displays the entire line which has the matched string. We can make the grep to display only the matched string by using the -o option. 
+![image](https://user-images.githubusercontent.com/103022040/162569757-9844917d-854d-4fc8-b508-04b8a21e2e77.png)
+- ####  display the lines that are not matched with the specified search string pattern using the -v option. 
+![image](https://user-images.githubusercontent.com/103022040/162569811-06167018-edea-4d1c-a5a4-9321da3a6a90.png)
 
 
 
