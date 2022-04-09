@@ -28,6 +28,19 @@
 - #### command to check current huge pages details.This huge page size can be increased from 2MB to max 1GB.
 ![image](https://user-images.githubusercontent.com/103022040/162566921-c4331df1-6764-4ab2-a009-38b48584d388.png)
 ## *Swap Space Command*
+- #### Type the following cat command to see total and used swap size:
+![image](https://user-images.githubusercontent.com/103022040/162568340-dbca96e8-fea0-43d8-b097-8a179e3b5aa6.png)
+- #### another way using grep command
+![image](https://user-images.githubusercontent.com/103022040/162568407-abd85f6d-90eb-4ccc-a0f6-135317a32ed2.png)
+- #### swapson -s command to show swap usage summary by device
+![image](https://user-images.githubusercontent.com/103022040/162568554-9ab2402d-7eb5-47bb-8567-f8f4de318731.png)
+- #### Use free command to monitor swap space usage
+![image](https://user-images.githubusercontent.com/103022040/162568603-193df89a-e964-4abd-9a0b-8a8a5cf2f882.png)
+- #### See swap size in Linux using vmstat command
+![image](https://user-images.githubusercontent.com/103022040/162568683-6290b5bd-b0cd-44a1-9b8a-9abfbe2e3ce1.png)
+
+
+
 
 
 
