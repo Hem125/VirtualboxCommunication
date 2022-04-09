@@ -51,6 +51,7 @@
 ![image](https://user-images.githubusercontent.com/103022040/162569757-9844917d-854d-4fc8-b508-04b8a21e2e77.png)
 - ####  display the lines that are not matched with the specified search string pattern using the -v option. 
 ![image](https://user-images.githubusercontent.com/103022040/162569811-06167018-edea-4d1c-a5a4-9321da3a6a90.png)
-
+- #### Replacement of new word with old word using sed command 
+![image](https://user-images.githubusercontent.com/103022040/162572573-e9a5ffb0-f92f-4101-8a81-ad7920604369.png)
 
 
